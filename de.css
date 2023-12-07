@@ -1,0 +1,41 @@
+li,h1,nav,a{
+    display: inline-block;
+    
+}
+
+.a1{
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+
+li:hover{
+    color: rgb(26, 175, 221);
+    cursor: pointer;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+.my{
+  text-align: center;   
+  display: inline-block;
+  padding: 20px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 5px;
+  
+  
+}
+
+.o1{
+    text-align: center;
+    padding: 40px;
+}
+
+.my:hover{
+    background-color:rgb(38, 48, 48);
+    color: white;
+}
+
